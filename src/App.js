@@ -95,23 +95,23 @@ class App extends Component {
           >
             <span
               className="iconify language-icon mr-5"
-              data-icon="twemoji-flag-for-flag-united-kingdom"
+              data-icon="twemoji-flag-for-flag-united-kingdom" //disabled until finished
               data-inline="false"
               id={window.$primaryLanguageIconId}
             ></span>
           </div>
           <div
-            onClick={() =>
-              this.applyPickedLanguage(
-                window.$secondaryLanguage,
-                window.$primaryLanguageIconId
-              )
-            }
+            // onClick={() =>
+            //   this.applyPickedLanguage(
+            //     window.$secondaryLanguage,
+            //     window.$primaryLanguageIconId
+            //   )
+            // }
             style={{ display: "inline" }}
           >
             <span
               className="iconify language-icon"
-              data-icon="twemoji-flag-for-flag-poland"
+              data-icon="twemoji-flag-for-flag-thailand" //disabled until finished
               data-inline="false"
               id={window.$secondaryLanguageIconId}
             ></span>
