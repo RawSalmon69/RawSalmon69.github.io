@@ -79,11 +79,12 @@ class About extends Component {
                     }}
                   >
                     <br />
-                    <span className="wave">{hello} :) </span>
+                    <span className="wave">{hello}</span>
                     <br />
                     <br />
                     {/* {about} */}
-                    👋 I'm Phanthawas Jirakiattikun, a Computer Engineering student currently studying at <span style={{ color: "pink" }}>Chulalongkorn</span><span style={{ color: "lightgray" }}> University</span>. I have a burning passion for programming and a wide set of skills. I have great leadership and teamwork skill and a proficiency in English communication. I believe in changes and making a technological impact on the world. I am looking for an opportunity to prove myself, improve my skill and grow together with a company. - Thank you 👾
+                    👋 I'm Phanthawas Jirakiattikun, a Computer Engineering student currently studying at <span style={{ color: "pink" }}>Chulalongkorn</span><span style={{ color: "lightgray" }}> University</span>. I have a burning passion for programming and a wide set of skills. I have great leadership and teamwork skill and a proficiency in English communication. I believe in changes and making a technological impact on the world. I am looking for an opportunity to prove myself, improve my skill and grow together with a company. - Thank you 👾 
+                    My github can be found here : https://github.com/
                   </div>
                 </div>
               </div>
