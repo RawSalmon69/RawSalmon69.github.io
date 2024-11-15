@@ -84,7 +84,14 @@ class About extends Component {
                     <br />
                     {/* {about} */}
                     👋 I'm Phanthawas Jirakiattikun, a Computer Engineering student currently studying at <span style={{ color: "pink" }}>Chulalongkorn</span><span style={{ color: "lightgray" }}> University</span>. I have a burning passion for programming and a wide set of skills. I have great leadership and teamwork skill and a proficiency in English communication. I believe in changes and making a technological impact on the world. I am looking for an opportunity to prove myself, improve my skill and grow together with a company. - Thank you 👾 
-                    My github can be found here : https://github.com/
+                    <br />
+                    <br />
+                    My CV & Resume can be found
+                    <a target="_blank" href="https://drive.google.com/file/d/1RglKDUEkKMtQTv8xsbuWA8dLH65UBKoR/view?usp=drive_link"> here</a>
+                    <br />
+                    <br />
+                    My github can be found 
+                    <a target="_blank" href="https://github.com/RawSalmon69"> here</a>
                   </div>
                 </div>
               </div>
